@@ -54,3 +54,10 @@ VITE_SUPABASE_ANON_KEY=tu_clave_aqui
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+---
+📝 Contacto
+Proyecto desarrollado para TensaCover. Para consultas sobre la implementación técnica o el flujo de automatización, puedes contactarme a través de este repositorio o vía email.
+
+Desarrollado con ❤️ para el mercado uruguayo.
+
+
