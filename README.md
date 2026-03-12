@@ -1,7 +1,53 @@
-TensaCover Uruguay 🇺🇾Plataforma de gestión automatizada para servicios de carpas tensadas (beduinas) y estructuras para eventos en Uruguay.Este proyecto fue desarrollado para optimizar el flujo de captación de clientes, centralizando las solicitudes desde un formulario web hacia una base de datos escalable y la planilla operativa del equipo en tiempo real.🚀 DemoAccede a la plataforma aquí: [INSERTAR TU LINK DE VERCEL AQUÍ]💡 Funcionalidades PrincipalesCaptura de Leads: Formulario optimizado para dispositivos móviles, garantizando una carga rápida incluso en entornos con conexión limitada.Gestión Centralizada: Integración directa con Supabase, permitiendo un almacenamiento seguro y estructurado de cada solicitud.Automatización Operativa: Conexión vía Webhooks con Google Sheets, asegurando que el equipo comercial tenga visibilidad instantánea de cada nuevo cliente sin intervención manual.Arquitectura Moderna: Construido sobre React + Vite, priorizando la velocidad de carga y la experiencia de usuario (UX).🛠 Stack TecnológicoTecnologíaRolReact + ViteInterfaz de usuario de alto rendimientoTailwind CSSEstilos y diseño responsivoSupabaseBase de datos y autenticaciónVercelDespliegue continuo y hostingMake (Integromat)Automatización de flujos de trabajo (Google Sheets/Gmail)📸 Galería[Aquí podés insertar una captura de pantalla de tu web con la etiqueta: ![Nombre](ruta_a_la_imagen.png)]⚙️ Configuración del ProyectoSi deseas clonar y ejecutar este proyecto localmente, asegúrate de configurar las siguientes variables de entorno en un archivo .env:Fragmento de códigoVITE_SUPABASE_URL=tu_url_aqui
-VITE_SUPABASE_ANON_KEY=tu_clave_aqui
-📈 Roadmap (Próximos pasos)[ ] Implementación de dominio personalizado (.com.uy).[ ] Integración de sistema de cotización automática.[ ] Módulo de seguimiento de presupuestos enviados.📝 ContactoDesarrollado para TensaCover. Si tienes alguna pregunta sobre el flujo de automatización o el desarrollo técnico, no dudes en ponerte en contacto.
+# TensaCover Uruguay 🇺🇾
 
+Plataforma de gestión automatizada para servicios de estructuras tensadas y carpas beduinas. 
+
+Este proyecto centraliza la captación de clientes a través de un formulario web optimizado, integrando la recepción de datos directamente con herramientas de automatización para una gestión comercial eficiente.
+
+---
+
+## 🚀 Acceso al Proyecto
+Puedes ver la plataforma en funcionamiento aquí:
+**[INSERTAR LINK DE VERCEL AQUÍ]**
+
+---
+
+## 🛠 Stack Tecnológico
+La solución ha sido construida bajo una arquitectura de alta disponibilidad y velocidad:
+
+* **Frontend:** React + Vite
+* **Estilos:** Tailwind CSS
+* **Base de Datos:** Supabase
+* **Automatización:** Make (Integromat)
+* **Despliegue:** Vercel
+
+---
+
+## 📋 Funcionalidades
+- **Formulario Inteligente:** Validación de datos en tiempo real para una experiencia de usuario fluida.
+- **Integración Operativa:** Conexión automatizada con Google Sheets para el seguimiento comercial en tiempo real.
+- **Diseño Responsivo:** Interfaz adaptada completamente a dispositivos móviles, ideal para usuarios en movimiento.
+- **Despliegue Continuo:** Configuración CI/CD que permite actualizaciones constantes del sitio.
+
+---
+
+## 📸 Galería
+*A continuación, se visualizan las herramientas que componen el flujo de trabajo:*
+
+**Interfaz del Formulario:**
+![Formulario Web](assets/web-form.png)
+
+**Base de datos / Registro de Clientes:**
+![Dashboard Google Sheets](assets/google-sheets.png)
+
+---
+
+## ⚙️ Configuración para Desarrollo
+Si deseas trabajar sobre este código, asegúrate de configurar las siguientes variables de entorno:
+
+```env
+VITE_SUPABASE_URL=tu_url_aqui
+VITE_SUPABASE_ANON_KEY=tu_clave_aqui
 
 1. Install dependencies:
    `npm install`
