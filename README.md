@@ -8,7 +8,7 @@ Este proyecto centraliza la captación de clientes a través de un formulario we
 
 ## 🚀 Acceso al Proyecto
 Puedes ver la plataforma en funcionamiento aquí:
-**[INSERTAR LINK DE VERCEL AQUÍ]**
+**[https://tensacover-uruguay-2awxiodo9-gerindizs-projects.vercel.app/]**
 
 ---
 
