@@ -1,16 +1,6 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/7a36f613-9231-491f-98da-d9bf3b279dae
-
-## Run Locally
-
-**Prerequisites:**  Node.js
+TensaCover Uruguay 🇺🇾Plataforma de gestión automatizada para servicios de carpas tensadas (beduinas) y estructuras para eventos en Uruguay.Este proyecto fue desarrollado para optimizar el flujo de captación de clientes, centralizando las solicitudes desde un formulario web hacia una base de datos escalable y la planilla operativa del equipo en tiempo real.🚀 DemoAccede a la plataforma aquí: [INSERTAR TU LINK DE VERCEL AQUÍ]💡 Funcionalidades PrincipalesCaptura de Leads: Formulario optimizado para dispositivos móviles, garantizando una carga rápida incluso en entornos con conexión limitada.Gestión Centralizada: Integración directa con Supabase, permitiendo un almacenamiento seguro y estructurado de cada solicitud.Automatización Operativa: Conexión vía Webhooks con Google Sheets, asegurando que el equipo comercial tenga visibilidad instantánea de cada nuevo cliente sin intervención manual.Arquitectura Moderna: Construido sobre React + Vite, priorizando la velocidad de carga y la experiencia de usuario (UX).🛠 Stack TecnológicoTecnologíaRolReact + ViteInterfaz de usuario de alto rendimientoTailwind CSSEstilos y diseño responsivoSupabaseBase de datos y autenticaciónVercelDespliegue continuo y hostingMake (Integromat)Automatización de flujos de trabajo (Google Sheets/Gmail)📸 Galería[Aquí podés insertar una captura de pantalla de tu web con la etiqueta: ![Nombre](ruta_a_la_imagen.png)]⚙️ Configuración del ProyectoSi deseas clonar y ejecutar este proyecto localmente, asegúrate de configurar las siguientes variables de entorno en un archivo .env:Fragmento de códigoVITE_SUPABASE_URL=tu_url_aqui
+VITE_SUPABASE_ANON_KEY=tu_clave_aqui
+📈 Roadmap (Próximos pasos)[ ] Implementación de dominio personalizado (.com.uy).[ ] Integración de sistema de cotización automática.[ ] Módulo de seguimiento de presupuestos enviados.📝 ContactoDesarrollado para TensaCover. Si tienes alguna pregunta sobre el flujo de automatización o el desarrollo técnico, no dudes en ponerte en contacto.
 
 
 1. Install dependencies:
