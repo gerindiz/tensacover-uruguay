@@ -1,0 +1,37 @@
+CARPETA DE MEDIOS — TensaCover Uruguay
+======================================
+
+Reemplazá estos archivos con tus fotos y videos reales.
+Los nombres deben ser EXACTAMENTE los siguientes:
+
+LOGO
+----
+logo.jpg  (o logo.png si tiene fondo transparente)
+
+VIDEO HERO
+----------
+hero-video.mp4      ← Video de fondo del hero (sin audio, max 10MB)
+hero-fallback.jpg   ← Imagen si el navegador no soporta video
+
+GALERÍA (6 imágenes)
+--------------------
+gallery-1.jpg
+gallery-2.jpg
+gallery-3.jpg
+gallery-4.jpg
+gallery-5.jpg
+gallery-6.jpg
+
+MODELOS DE CARPAS
+-----------------
+model-standard.jpg
+model-premium.jpg
+model-granxl.jpg
+
+Tamaños recomendados:
+- Fotos galería: 1200×800px o mayor, JPG calidad 80%
+- Fotos modelos: 800×600px o mayor, JPG calidad 80%
+- Hero fallback: 1920×1080px, JPG calidad 85%
+- Logo: 400px de altura mínima, PNG con transparencia (mejor)
+
+Para más detalle ver README.md en la raíz del proyecto.
